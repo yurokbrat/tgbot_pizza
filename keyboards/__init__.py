@@ -1,0 +1,2 @@
+from keyboards.client_keyb import kb_client
+from keyboards.client_offer_keyb import kb_client_offer
